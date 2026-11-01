@@ -1,0 +1,7 @@
+{
+  "name": "edge-tts-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "msedge-tts": "^1.4.0"
+  }
+}
